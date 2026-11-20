@@ -1,0 +1,6 @@
+{
+  "name": "Quem é esse Pokémon?",
+  "description": "Jogo interativo de adivinhação de Pokémon (Gerações 1 a 9 e formas regionais) com sistema de dicas progressivas: som, ataques, tipagens e silhueta.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
